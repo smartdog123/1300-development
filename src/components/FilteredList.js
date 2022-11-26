@@ -31,7 +31,13 @@ class Filteredlist extends React.Component {
         <Grid sx={{ flexGrow: 1, paddingTop: "100px" }} container spacing={2}>
           <Grid item xs={2}>
             <Box
-              sx={{ border: 1, borderRadius: "15%", borderColor: "grey.500" }}
+              sx={{
+                border: 1,
+                borderRadius: "15%",
+                borderColor: "grey.500",
+                position: "sticky",
+                top: "15%",
+              }}
               padding="20px 0"
             >
               <FormControl>

@@ -1,0 +1,8 @@
+.cart {
+  border: 1px solid grey;
+  border-radius: 20px;
+  position: sticky;
+  width: 300px;
+  margin-left: 100px;
+  top: 15%;
+}
