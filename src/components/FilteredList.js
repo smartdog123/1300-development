@@ -28,7 +28,7 @@ class Filteredlist extends React.Component {
           width="400"
           height="400"
         ></img>
-        <Grid sx={{ flexGrow: 1, paddingTop: "100px" }} container spacing={2}>
+        <Grid sx={{ flexGrow: 1, paddingTop: "100px" }} container spacing={1}>
           <Grid item xs={2}>
             <Box
               sx={{
@@ -37,8 +37,9 @@ class Filteredlist extends React.Component {
                 borderColor: "grey.500",
                 position: "sticky",
                 top: "15%",
+                padding: "20px 0",
+                marginLeft: "20px",
               }}
-              padding="20px 0"
             >
               <FormControl>
                 <FormLabel>Sort by</FormLabel>
