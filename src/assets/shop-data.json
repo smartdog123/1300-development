@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Banana",
+    "price": 2.5,
+    "popular": 5,
+    "type": "fruit",
+    "onsale": "yes",
+    "description": "",
+    "image": "banana.jpeg"
+  },
+  {
+    "name": "Apple",
+    "price": 1,
+    "popular": 10,
+    "type": "fruit",
+    "onsale": "yes",
+    "description": "",
+    "image": "apple.jpeg"
+  },
+  {
+    "name": "Orange",
+    "price": 2,
+    "popular": 3,
+    "type": "fruit",
+    "onsale": "yes",
+    "description": "",
+    "image": "orange.jpeg"
+  },
+  {
+    "name": "Lemon",
+    "price": 1,
+    "popular": 1,
+    "type": "fruit",
+    "onsale": "no",
+    "description": "",
+    "image": "lemon.jpeg"
+  },
+  {
+    "name": "Blueberries",
+    "price": 5,
+    "popular": 5,
+    "type": "fruit",
+    "onsale": "no",
+    "description": "",
+    "image": "blueberries.jpeg"
+  },
+  {
+    "name": "Strawberry",
+    "price": 2.5,
+    "popular": 5,
+    "type": "fruit",
+    "onsale": "no",
+    "description": "",
+    "image": "strawberry.jpeg"
+  },
+  {
+    "name": "Beef",
+    "price": 10,
+    "popular": 7,
+    "type": "meat",
+    "onsale": "yes",
+    "description": "",
+    "image": "beef.jpeg"
+  },
+  {
+    "name": "Pork",
+    "price": 15,
+    "popular": 3,
+    "type": "meat",
+    "onsale": "yes",
+    "description": "",
+    "image": "pork.jpeg"
+  },
+  {
+    "name": "Fish",
+    "price": 8,
+    "popular": 10,
+    "type": "meat",
+    "onsale": "yes",
+    "description": "",
+    "image": "fish.jpeg"
+  },
+  {
+    "name": "Chicken",
+    "price": 10,
+    "popular": 11,
+    "type": "meat",
+    "onsale": "no",
+    "description": "",
+    "image": "chicken.jpeg"
+  },
+  {
+    "name": "Bacon",
+    "price": 6,
+    "popular": 7,
+    "type": "meat",
+    "onsale": "no",
+    "description": "",
+    "image": "bacon.jpeg"
+  },
+  {
+    "name": "Sausage",
+    "price": 5,
+    "popular": 5,
+    "type": "meat",
+    "onsale": "no",
+    "description": "",
+    "image": "sausage.jpeg"
+  }
+]
