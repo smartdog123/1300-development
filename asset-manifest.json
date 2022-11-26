@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/1300-development/static/css/main.073c9b0a.css",
-    "main.js": "/1300-development/static/js/main.1669e8b6.js",
+    "main.css": "/1300-development/static/css/main.e48e3028.css",
+    "main.js": "/1300-development/static/js/main.2cfb03eb.js",
+    "static/media/head.webp": "/1300-development/static/media/head.b4bf1f256f07cb92e5aa.webp",
+    "static/media/sausage.jpeg": "/1300-development/static/media/sausage.45dd4503796e5d3be1f6.jpeg",
+    "static/media/bacon.jpeg": "/1300-development/static/media/bacon.340b36d626a75373d4ad.jpeg",
+    "static/media/strawberry.jpeg": "/1300-development/static/media/strawberry.2faf3a1ca70b4c9adff8.jpeg",
+    "static/media/chicken.jpeg": "/1300-development/static/media/chicken.1804bffaac829b334e69.jpeg",
     "static/media/logo.svg": "/1300-development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/1300-development/index.html",
-    "main.073c9b0a.css.map": "/1300-development/static/css/main.073c9b0a.css.map",
-    "main.1669e8b6.js.map": "/1300-development/static/js/main.1669e8b6.js.map"
+    "main.e48e3028.css.map": "/1300-development/static/css/main.e48e3028.css.map",
+    "main.2cfb03eb.js.map": "/1300-development/static/js/main.2cfb03eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1669e8b6.js"
+    "static/css/main.e48e3028.css",
+    "static/js/main.2cfb03eb.js"
   ]
 }
